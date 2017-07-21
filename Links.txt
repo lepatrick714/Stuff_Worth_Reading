@@ -1,2 +1,5 @@
 NLP, Algorithms and FP, Seva Demkin from Grammarly talk
     https://www.youtube.com/watch?v=1UcoX5OsjHI
+
+Founder of Stack Exchange. There are a bunch of dope readings. 
+https://www.joelonsoftware.com/about-me/
